@@ -6,37 +6,37 @@
          "tagger",
          "group",
          "ByWolk",
-         "StarBotKanal"
+  
       ],   
    "repository": "https://github.com/MehmetAtes21/tagbot",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
-         "value": "5102042096:AAEEU9HlOra6CFKqvHnNmemSH8sxo3qWOWE"
+         "value": "6351942473:AAF1gagdscrtwRlqxbOB8tfUb6Da-hS6ISw"
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": "18721675"
+         "value": "16571012"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": "168152fe87d971c45fba6f1b3f2f2802"
+         "value": "b4cb958074fb47640ec9bc0940333d13"
       },    
       "LOG_QRUP": {
          "description": "log grubun id si",
-         "value": "-1001798248422"
+         "value": "-1001915718534"
       },
       "USERNAME": {
          "description": "Botun kullanıcı adı yazınız @ işareti olmadan",
-         "value": "kelimetahminibot"
+         "value": "@etiketcavres_bot"
       },
       "sahib": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
-         "value": "ByWolk"
+         "value": "rahatsizetmeyiniz34"
       },      
       "support": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
-         "value": "StarBotKanal"
+         "value": "+HnFccul8aFQ3MTdk"
       },
       "startmesaj": {
          "description": "Bota start verilince mesajınız",
