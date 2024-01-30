@@ -12,27 +12,27 @@
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
-         "value": "6351942473:AAF1gagdscrtwRlqxbOB8tfUb6Da-hS6ISw"
+         "value": "6713288046:AAFGoYAMwT3PPeRy4HKGwN1OUuO4LgKpLTM"
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": "16571012"
+         "value": "14209813"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": "b4cb958074fb47640ec9bc0940333d13"
+         "value": "f6fc4af6fa07543ace7bcf771e89cdd2"
       },    
       "LOG_QRUP": {
          "description": "log grubun id si",
-         "value": "-1001915718534"
+         "value": "-1002120357755"
       },
       "USERNAME": {
          "description": "Botun kullanıcı adı yazınız @ işareti olmadan",
-         "value": "@etiketcavres_bot"
+         "value": "@cansuetiket_bot"
       },
       "sahib": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
-         "value": "rahatsizetmeyiniz34"
+         "value": "parliamenttr"
       },      
       "support": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
