@@ -24,11 +24,11 @@
       },    
       "LOG_QRUP": {
          "description": "log grubun id si",
-         "value": "-1002120357755"
+         "value": "-1001831099952"
       },
       "USERNAME": {
          "description": "Botun kullanıcı adı yazınız @ işareti olmadan",
-         "value": "@cansuetiket_bot"
+         "value": "@etiketsudenaz_bot"
       },
       "sahib": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
@@ -36,7 +36,7 @@
       },      
       "support": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
-         "value": "+HnFccul8aFQ3MTdk"
+         "value": "https://t.me/medikalsohbettr"
       },
       "startmesaj": {
          "description": "Bota start verilince mesajınız",
